@@ -15,21 +15,22 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=NamanGaonkar&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanGaonkar&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=namangaonkar&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namangaonkar&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
-### 🚀 About Me
-- 🎓 Engineering Student  
-- 💻 Exploring Web Dev, C++ & AI tools  
-- 🎮 Gamer in free time  
-- 🏏 Hardcore Virat Kohli fan  
+###  About Me
+-  Engineering Student  
+-  Exploring Web Dev, C++ & AI tools  
+-  Gamer in free time  
+-  Hardcore Virat Kohli fan
+-  also a Hardcore Max Verstepan fan
 
 ---
 
-### 📬 Connect
+###  Connect
 <p>
   <a href="https://github.com/NamanGaonkar"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
