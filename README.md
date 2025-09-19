@@ -1,4 +1,4 @@
-# Hi, I'm Naman 👋  
+# Hi, I'm Naman 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=3CB371&center=true&vCenter=true&width=440&height=45&lines=Engineering+Student;Tech+Enthusiast;Gamer;Virat+Kohli+Fan" />
