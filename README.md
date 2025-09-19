@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Naman 👋
 
-<!--
-**NamanGaonkar/NamanGaonkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Engineering student  
+- 💻 Learning C++, Web Dev, and AI tools  
+- 🎮 I enjoy gaming in my free time  
+- 🏏 Big fan of Virat Kohli  
 
-Here are some ideas to get you started:
+### Projects
+- MindCare – Digital mental health support system  
+- DSA Practice – Problem solving in C++  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect
+[LinkedIn](#) | [GitHub](#)
