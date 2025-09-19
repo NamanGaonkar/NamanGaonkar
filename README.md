@@ -6,14 +6,14 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,html,css,react,nextjs,nodejs,express,tailwind,bootstrap,git,github,vscode,mongodb,mysql,postgres" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=namangaonkar&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namangaonkar&layout=compact&theme=tokyonight" height="150"/>
