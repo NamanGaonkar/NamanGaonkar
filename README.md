@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=NamanGaonkar&theme=github"/>
 </p>
----
+
 
 ### GitHub Stats
 <p align="center">
