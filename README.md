@@ -15,7 +15,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanGaonkar&theme=radical"/>
 </p>
-
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=NamanGaonkar&theme=github"/>
 </p>
