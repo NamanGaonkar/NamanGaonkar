@@ -31,9 +31,9 @@
 - Full-Stack Developer (React, Node.js, Next.js, Tailwind, DBs)  
 - Strong in **DSA** (C++ / Java)  
 - Python (AI & scripting)  
--  Gamer  
+- Gamer in free time 
 - Virat Kohli fan  
-- Max Verstappen F1 supporter  
+- also a Max Verstappen F1 supporter  
 
 ---
 ###  Connect
