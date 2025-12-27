@@ -20,26 +20,14 @@
 ---
 
 ### GitHub Streak & Activity
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=NamanGaonkar&theme=radical" 
-    alt="GitHub Streak"
-  />
-</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=NamanGaonkar&theme=radical)](https://git.io/streak-stats)
 
 ### GitHub Stats
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=NamanGaonkar&show_icons=true&theme=radical" 
-    height="150" 
-    alt="GitHub Stats"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanGaonkar&layout=compact&theme=radical" 
-    height="150" 
-    alt="Top Languages"
-  />
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NamanGaonkar&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NamanGaonkar&layout=compact&theme=radical)
 
 ---
 
@@ -66,5 +54,4 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
 
