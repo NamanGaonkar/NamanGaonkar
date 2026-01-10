@@ -18,7 +18,7 @@
 
 ---
 
-## 📂 Code Vibes (No-BS Version)
+## 📂 My Code Vibes ? 
 
 - Working on full-stack apps with proper auth, clean APIs, and solid DB design  
 - Love for performance, clean abstractions, and readable code  
@@ -27,7 +27,7 @@
 
 ---
 
-## About This **Nerd**
+## My **Nerd* Stuff
 
 - 🎓 Electronics & Computer engineering student  
 - 💻 **Full-stack**: React, Next.js, Node.js, Express, Tailwind, MongoDB/MySQL/Postgres  
