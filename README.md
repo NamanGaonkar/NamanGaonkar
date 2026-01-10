@@ -18,49 +18,23 @@
 
 ---
 
-## 📊 Stats, Streaks & Languages
+## 📂 Code Vibes (No-BS Version)
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=NamanGaonkar&theme=radical&hide_border=true" 
-    alt="GitHub Streak"
-  >
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=NamanGaonkar&show_icons=true&theme=radical&rank_icon=github&hide_border=true" 
-    alt="GitHub Stats"
-  >
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanGaonkar&layout=compact&theme=radical&hide_border=true" 
-    alt="Top Languages"
-  >
-</p>
+- Working on full-stack apps with proper auth, clean APIs, and solid DB design  
+- Love for performance, clean abstractions, and readable code  
+- Problem-solving with **DSA** (C++ / Java) and real-world constraints  
+- Experimenting with AI features in web apps  
 
 ---
 
-## 🧠 About This **Nerd**
+## About This **Nerd**
 
-- 🎓 Engineering student (Electronics & Computer)  
-- 💻 **Full-stack** dev: React, Next.js, Node.js, Express, Tailwind, DBs  
-- 🧩 Strong **DSA** (C++ / Java)  
-- 🤖 Python for automation, AI experiments, scripts  
-- 🎮 Gamer in free time – story-driven, F1, sweaty ranked queues  
-- 🏏 Virat Kohli loyalist  
-- 🏎️ Max Verstappen and late-braking enjoyer  
-
----
-
-## 🕹️ What I’m Cooking
-
-- 🧱 Full-stack apps with proper auth + clean APIs  
-- 📦 Reusable React / Next.js components  
-- 🤖 AI-powered features in web apps  
-- 📚 Systems, low-level concepts, and performance tuning  
+- 🎓 Electronics & Computer engineering student  
+- 💻 **Full-stack**: React, Next.js, Node.js, Express, Tailwind, MongoDB/MySQL/Postgres  
+- Python for scripts, tooling, and AI experiments  
+- Gamer; into story-driven games, sweaty lobbies, and techy game design talk  
+- Virat Kohli enjoyer  
+- Max Verstappen + F1 tactics nerd  
 
 ---
 
@@ -76,11 +50,4 @@
   <a href="mailto:namanrgaonkar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail">
   </a>
-</p>
-
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=NamanGaonkar&label=Profile+Views&color=3CB371&style=flat-square" 
-    alt="Profile Views"
-  >
 </p>
