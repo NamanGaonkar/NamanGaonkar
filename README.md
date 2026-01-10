@@ -1,66 +1,95 @@
-# Hi, I'm Naman 👋  
+<!-- Profile header -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=28&color=3CB371&center=true&vCenter=true&width=700&height=60&lines=Hey%2C+I'm+Naman+👋;Full+Stack+Developer+🚀;DSA+%26+System+Design+Nerd+🧠;AI+Explorer+🤖;Gamer+%7C+F1+%7C+Cricket+Enthusiast"
+    alt="Typing Intro"
+  >
+</p>
+
+---
+
+## ⚙️ Tech Arsenal
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?size=28&color=3CB371&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;DSA+Practitioner;AI+Explorer;Gamer;Virat+Kohli+%26+Max+Verstappen+Fan" 
-    alt="Typing SVG">
+    src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,react,nextjs,nodejs,express,html,css,tailwind,bootstrap,mongodb,mysql,postgres,git,github,vscode" 
+    alt="Tech Stack Icons"
+  >
 </p>
-
----
-
-### Tech Stack
 
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,html,css,react,nextjs,nodejs,express,tailwind,bootstrap,git,github,vscode,mongodb,mysql,postgres" 
-    alt="Tech Stack Icons">
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NamanGaonkar&theme=radical" 
+    alt="Profile Details"
+  >
 </p>
 
 ---
 
-### GitHub Streak & Activity
+## 📊 Stats, Streaks & Languages
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=NamanGaonkar&theme=radical" alt="GitHub Streak">
-  </a>
-</p>
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NamanGaonkar&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img 
+    src="https://streak-stats.demolab.com?user=NamanGaonkar&theme=radical&hide_border=true" 
+    alt="GitHub Streak"
+  >
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanGaonkar&layout=compact&theme=radical" alt="Top Languages">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=NamanGaonkar&show_icons=true&theme=radical&rank_icon=github&hide_border=true" 
+    alt="GitHub Stats"
+  >
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanGaonkar&layout=compact&theme=radical&hide_border=true" 
+    alt="Top Languages"
+  >
 </p>
 
 ---
 
-### About Me
+## 🧠 About This **Nerd**
 
-- Engineering student  
-- Full-stack developer (React, Node.js, Next.js, Tailwind, DBs)  
-- Strong in **DSA** (C++ / Java)  
-- Python (AI & scripting)  
-- Gamer in free time  
-- Virat Kohli fan  
-- Max Verstappen F1 supporter  
+- 🎓 Engineering student (Electronics & Computer) who actually enjoys debugging at 2 AM  
+- 💻 **Full-stack** dev: React, Next.js, Node.js, Express, Tailwind, DBs  
+- 🧩 Strong **DSA** in C++ / Java, LeetCode grind type beat  
+- 🤖 Python for automation, small AI experiments, and random scripts  
+- 🎮 Gamer in free time – story-driven, F1, and sweaty competitive lobbies  
+- 🏏 Hardcore Virat Kohli enjoyer  
+- 🏎️ Max Verstappen + late braking + purple sectors fan  
 
 ---
 
-### Connect
+## 🕹️ What I’m Cooking
+
+- 🧱 Full-stack side projects with proper auth, DB design, and clean APIs  
+- 📦 Reusable components / mini libraries for React & Next.js  
+- 🤖 Small AI integrations into web apps (chatbots, recommendations, etc.)  
+- 📚 Constantly leveling up low-level concepts, system design, and performance  
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/NamanGaonkar">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/naman-gaonkar-640822325/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn">
   </a>
   <a href="mailto:namanrgaonkar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail">
   </a>
+</p>
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=NamanGaonkar&label=Profile%20Views&color=3CB371&style=flat-square" 
+    alt="Profile Views"
+  >
 </p>
 
