@@ -1,4 +1,3 @@
-<!-- Profile header -->
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?size=28&color=3CB371&center=true&vCenter=true&width=700&height=60&lines=Hey%2C+I'm+Naman+👋;Full+Stack+Developer+🚀;DSA+%26+System+Design+Nerd+🧠;AI+Explorer+🤖;Gamer+%7C+F1+%7C+Cricket+Enthusiast"
@@ -14,13 +13,6 @@
   <img 
     src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,react,nextjs,nodejs,express,html,css,tailwind,bootstrap,mongodb,mysql,postgres,git,github,vscode" 
     alt="Tech Stack Icons"
-  >
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NamanGaonkar&theme=radical" 
-    alt="Profile Details"
   >
 </p>
 
@@ -53,22 +45,22 @@
 
 ## 🧠 About This **Nerd**
 
-- 🎓 Engineering student (Electronics & Computer) who actually enjoys debugging at 2 AM  
+- 🎓 Engineering student (Electronics & Computer)  
 - 💻 **Full-stack** dev: React, Next.js, Node.js, Express, Tailwind, DBs  
-- 🧩 Strong **DSA** in C++ / Java, LeetCode grind type beat  
-- 🤖 Python for automation, small AI experiments, and random scripts  
-- 🎮 Gamer in free time – story-driven, F1, and sweaty competitive lobbies  
-- 🏏 Hardcore Virat Kohli enjoyer  
-- 🏎️ Max Verstappen + late braking + purple sectors fan  
+- 🧩 Strong **DSA** (C++ / Java)  
+- 🤖 Python for automation, AI experiments, scripts  
+- 🎮 Gamer in free time – story-driven, F1, sweaty ranked queues  
+- 🏏 Virat Kohli loyalist  
+- 🏎️ Max Verstappen and late-braking enjoyer  
 
 ---
 
 ## 🕹️ What I’m Cooking
 
-- 🧱 Full-stack side projects with proper auth, DB design, and clean APIs  
-- 📦 Reusable components / mini libraries for React & Next.js  
-- 🤖 Small AI integrations into web apps (chatbots, recommendations, etc.)  
-- 📚 Constantly leveling up low-level concepts, system design, and performance  
+- 🧱 Full-stack apps with proper auth + clean APIs  
+- 📦 Reusable React / Next.js components  
+- 🤖 AI-powered features in web apps  
+- 📚 Systems, low-level concepts, and performance tuning  
 
 ---
 
@@ -88,8 +80,7 @@
 
 <p align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=NamanGaonkar&label=Profile%20Views&color=3CB371&style=flat-square" 
+    src="https://komarev.com/ghpvc/?username=NamanGaonkar&label=Profile+Views&color=3CB371&style=flat-square" 
     alt="Profile Views"
   >
 </p>
-
