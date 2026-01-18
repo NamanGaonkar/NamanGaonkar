@@ -27,13 +27,13 @@
 
 ---
 
-## My **Nerd* Stuff
+## usual **Nerdy* Stuff
 
 - 🎓 Electronics & Computer engineering student  
 - 💻 **Full-stack**: React, Next.js, Node.js, Express, Tailwind, MongoDB/MySQL/Postgres  
 - Python for scripts, tooling, and AI experiments  
 - Gamer; into story-driven games, sweaty lobbies, and techy game design talk  
-- Virat Kohli enjoyer  
+- Die hard virat kohli and cricket fan 
 - Max Verstappen + F1 tactics nerd  
 
 ---
