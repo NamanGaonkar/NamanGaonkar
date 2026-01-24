@@ -45,8 +45,9 @@
 
 ## 📂 Recent Engineering Feats
 - **MindCareAI**: An AI-driven mental health ecosystem for students.
+- **CivicLensAI**: An AI-driven Civic platform where u can report civic issues and form communities.
 - **System Design**: Building scalable APIs with clean abstractions and solid auth patterns.
-- **Embedded Fun**: Interfacing 8051 controllers because low-level logic is where the soul is.
+- **Embedded Fun**: Interfacing 8051 controllers, Arduino's and Esp because low-level logic is where the soul is.
 
 ---
 
