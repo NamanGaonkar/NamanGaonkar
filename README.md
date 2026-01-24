@@ -10,7 +10,7 @@
 - 🎓 **Electronics & Computer Engineering Student** | Merging hardware logic with software scale.
 - 🛠️ **Full-Stack Wizard**: Crafting seamless experiences with **Next.js**, **Node.js**, and **PostgreSQL**.
 - 🏏 **Cricket Fanatic**: Living by the "King Kohli" mindset—consistency and passion.
-- 🏁 **F1 Tactics Nerd**: Analyzing DRS zones and pit strategies while I code.
+- 🏁 **F1 Tactics Nerd**: Analyzing DRS (nov MOM) zones and pit strategies while I code.
 - 🎮 **Gamer**: Currently surviving the Lands Between or grinding sweaty lobbies.
 
 ---
