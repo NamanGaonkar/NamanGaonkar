@@ -26,10 +26,6 @@
 ## 📊 Performance Metrics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NamanGaonkar&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
-
-  <br />
-
   <table border="0">
     <tr>
       <td>
@@ -40,14 +36,6 @@
       </td>
     </tr>
   </table>
-  
-  <br />
-
-  <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-
-  <br />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanGaonkar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
