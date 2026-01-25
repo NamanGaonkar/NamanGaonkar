@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
 </p>
 
-## 🏎️ The Fast Lane (Quick Bio)
+##  ABout me? 
 - 🎓 **Electronics & Computer Engineering Student** | Merging hardware logic with software scale.
 - 🛠️ **Full-Stack Wizard**: Crafting seamless experiences with **Next.js**, **Node.js**, and **PostgreSQL**.
 - 🏏 **Cricket Fanatic**: Living by the "King Kohli" mindset—consistency and passion.
@@ -51,7 +51,7 @@
 
 ---
 
-## 🌐 Telemetry (Connect)
+## 🌐Find me here :)
 
 <p align="center">
   <a href="https://linkedin.com/in/naman-gaonkar-640822325/">
