@@ -43,14 +43,13 @@
   
   <br />
 
-  <img src="https://github.com/NamanGaonkar/NamanGaonkar/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanGaonkar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
-
 ## 📂 Recent Engineering Feats
 - **MindCareAI**: An AI-driven mental health ecosystem for students.
 - **CivicLensAI**: An AI-driven Civic platform where u can report civic issues and form communities.
