@@ -25,6 +25,9 @@
 
 ## 📊 Performance Metrics
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NamanGaonkar&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
+
   <br />
 
   <table border="0">
@@ -42,6 +45,11 @@
 
   <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
+  <br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanGaonkar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
 ---
 
 ## 📂 Recent Engineering Feats
@@ -56,13 +64,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/naman-gaonkar-640822325/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:namanrgaonkar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/NamanGaonkar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
