@@ -18,7 +18,7 @@
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,github,vscode,docker,aws,postman" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,github,vscode,docker,aws,postman&perline=9" />
 </div>
 
 ---
@@ -26,17 +26,25 @@
 ## 📊 Performance Metrics
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NamanGaonkar&theme=tokyonight&no-bg=true&margin-w=15&column=4" alt="Trophies" />
+
+  <br />
+
   <table border="0">
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=NamanGaonkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Naman's Stats" height="180px" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanGaonkar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NamanGaonkar&theme=tokyonight" height="180px" />
       </td>
     </tr>
   </table>
   
+  <br />
+
+  <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanGaonkar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
