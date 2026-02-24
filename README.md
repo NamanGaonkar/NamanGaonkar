@@ -27,32 +27,16 @@
 
 ---
 
-### ENGINEERING LOG
-| Project | Domain | Status |
-| :--- | :--- | :--- |
-| **MindCareAI** | Mental Health Ecosystem | Production |
-| **CivicLensAI** | Civic Issue Reporting | Beta |
-| **Embedded Logic** | 8051 / Arduino / ESP32 | Active Research |
-| **System Design** | Scalable API Patterns | Continuous |
-
----
-
 ### PERFORMANCE TELEMETRY
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=NamanGaonkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanGaonkar&theme=tokyonight&hide_border=true" alt="Streak" />
-      </td>
-    </tr>
-  </table>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanGaonkar&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NamanGaonkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Naman's Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanGaonkar&theme=tokyonight&hide_border=true" alt="Naman's Streak" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanGaonkar&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
+</p>
 
 ---
 
