@@ -30,12 +30,12 @@
 ### PERFORMANCE TELEMETRY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NamanGaonkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Naman's Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanGaonkar&theme=tokyonight&hide_border=true" alt="Naman's Streak" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NamanGaonkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Naman's Stats" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanGaonkar&theme=tokyonight&hide_border=true" alt="Naman's Streak" height="195" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanGaonkar&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanGaonkar&layout=compact&theme=tokyonight&hide_border=true" height="195" />
 </p>
 
 ---
