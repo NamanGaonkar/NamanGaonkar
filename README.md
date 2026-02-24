@@ -30,11 +30,7 @@
 ### PERFORMANCE TELEMETRY
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanGaonkar&theme=tokyonight&hide_border=true" alt="Streak Stats" height="195" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanGaonkar&layout=compact&theme=tokyonight&hide_border=true" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanGaonkar&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
@@ -46,7 +42,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:namanrgaonkar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/NamanGaonkar">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
