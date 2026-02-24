@@ -6,49 +6,51 @@
 
 ---
 
+<div align="center">
+
 ### CORE ARCHITECTURE
-* **Academic Focus**: Electronics & Computer Engineering | Hardware Logic + Software Scale
-* **Technical Stack**: Next.js, Node.js, PostgreSQL, AWS
-* **Interests**: System Design, Embedded Systems, Formula 1 Telemetry, Strategic Gaming
+**Academic Focus**: Electronics & Computer Engineering | Hardware Logic + Software Scale
+**Technical Stack**: Next.js, Node.js, PostgreSQL, AWS
+**Interests**: System Design, Embedded Systems, Formula 1 Telemetry, Strategic Gaming
 
 ---
 
 ### TECH ARSENAL
 
 **Software & Systems**
-<p align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,postgres,mongodb,tailwind,docker,aws&perline=9" />
-</p>
+</div>
+
+<br />
 
 **Languages & Tools**
-<p align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,git,github,vscode,postman&perline=9" />
-</p>
+</div>
 
 ---
 
 ### PERFORMANCE TELEMETRY
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanGaonkar&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanGaonkar&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
 ---
 
 ### COMMUNICATIONS
+<br />
+<a href="https://linkedin.com/in/naman-gaonkar-640822325/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:namanrgaonkar@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/NamanGaonkar">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/naman-gaonkar-640822325/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:namanrgaonkar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/NamanGaonkar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
+  <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=100&section=footer" width="100%" />
 </p>
