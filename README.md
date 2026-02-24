@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=200&section=header&text=NAMAN%20GAONKAR&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=200&section=header&text=HEY,%20IT'S%20NAMAN&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3CB371&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Developer;DSA+%26+System+Design;AI+Engineering;Electronics+%26+Computer+Engineering" alt="Typing SVG" />
 </div>
@@ -30,8 +30,7 @@
 ### PERFORMANCE TELEMETRY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NamanGaonkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Naman's Stats" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanGaonkar&theme=tokyonight&hide_border=true" alt="Naman's Streak" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanGaonkar&theme=tokyonight&hide_border=true" alt="Streak Stats" height="195" />
 </p>
 
 <p align="center">
@@ -47,7 +46,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:namanrgaonkar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/NamanGaonkar">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
