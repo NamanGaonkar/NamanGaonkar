@@ -9,9 +9,9 @@
 <div align="center">
 
 ### CORE ARCHITECTURE
-**Academic Focus**: Electronics & Computer Engineering | Hardware Logic + Software Scale
-**Technical Stack**: Next.js, Node.js, PostgreSQL, AWS
-**Interests**: System Design, Embedded Systems, Formula 1 Telemetry, Strategic Gaming
+**Academic Focus**: Electronics & Computer Engineering | Hardware Logic + Software Scale  
+**Technical Stack**: Next.js, Node.js, PostgreSQL, AWS  
+**Interests**: System Design, Embedded Systems, Formula 1 Telemetry, Strategic Gaming  
 
 ---
 
@@ -32,25 +32,28 @@
 ---
 
 ### PERFORMANCE TELEMETRY
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanGaonkar&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
-<br />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanGaonkar&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <br /><br />
+  <a href="https://leetcode.com/u/namannoob69/">
+    <img src="https://leetcode-badge.vercel.app/api/users/namannoob69?theme=dark" alt="LeetCode Stats" />
+  </a>
+</div>
 
-<a href="https://leetcode.com/u/namannoob69/">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode%20Solved&query=totalSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Fnamannoob69&color=3CB371&logo=leetcode" alt="LeetCode Solved" />
-</a>
 ---
 
 ### COMMUNICATIONS
+
 <br />
 <a href="https://linkedin.com/in/naman-gaonkar-640822325/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:namanrgaonkar@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/NamanGaonkar">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
