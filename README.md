@@ -37,7 +37,7 @@
 <br />
 
 <a href="https://leetcode.com/u/namannoob69/">
-  <img src="https://img.shields.io/badge/LeetCode-namannoob69-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+  <img src="https://leetcode-card.vercel.app/namannoob69?theme=dark" alt="LeetCode Stats" />
 </a>
 
 ---
