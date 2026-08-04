@@ -34,6 +34,12 @@
 ### PERFORMANCE TELEMETRY
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanGaonkar&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
+<br />
+
+<a href="https://leetcode.com/u/namannoob69/">
+  <img src="https://leetcode-stats-api.herokuapp.com/namannoob69" alt="LeetCode Stats" />
+</a>
+
 ---
 
 ### COMMUNICATIONS
