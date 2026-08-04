@@ -37,9 +37,8 @@
 <br />
 
 <a href="https://leetcode.com/u/namannoob69/">
-  <img src="https://leetcode.badge.ondigitalocean.app/namannoob69?theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats-showcase.vercel.app/api?username=namannoob69&theme=dark" alt="LeetCode Stats" />
 </a>
-
 ---
 
 ### COMMUNICATIONS
