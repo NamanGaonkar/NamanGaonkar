@@ -37,7 +37,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanGaonkar&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
   <br /><br />
   <a href="https://leetcode.com/u/namannoob69/">
-    <img src="https://leetcard.jacoblin.cool/namannoob69?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/namangaonkar?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </div>
 
