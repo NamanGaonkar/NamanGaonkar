@@ -37,9 +37,8 @@
 <br />
 
 <a href="https://leetcode.com/u/namannoob69/">
-  <img src="https://leetcode-card.vercel.app/namannoob69?theme=dark" alt="LeetCode Stats" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode%20Solved&query=totalSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Fnamannoob69&color=3CB371&logo=leetcode" alt="LeetCode Solved" />
 </a>
-
 ---
 
 ### COMMUNICATIONS
