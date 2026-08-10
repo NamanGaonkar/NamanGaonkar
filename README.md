@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=200&section=header&text=HEY,%20IT'S%20NAMAN&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=200&section=header&text=HEY,%20I'AM%20NAMAN&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3CB371&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Developer;DSA+%26+System+Design;AI+Engineering;Electronics+%26+Computer+Engineering" alt="Typing SVG" />
 </div>
