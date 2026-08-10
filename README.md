@@ -26,7 +26,7 @@
 
 **Languages & Tools**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,git,github,vscode,postman&perline=9" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,go,git,github,vscode,postman&perline=10" />
 </div>
 
 ---
