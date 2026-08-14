@@ -19,14 +19,14 @@
 
 **Software & Systems**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,postgres,mongodb,tailwind,docker,aws&perline=9" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,postgres,mongodb,tailwind,docker,aws,flutter&perline=10" />
 </div>
 
 <br />
 
 **Languages & Tools**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,go,git,github,vscode,postman&perline=10" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,go,dart,androidstudio,git,github,vscode,postman&perline=12" />
 </div>
 
 ---
