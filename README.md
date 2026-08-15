@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- ══════════════ NEON HEADER — ANIMATED WAVE ══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE30A,100:FF9E00&height=220&section=header&text=N%20A%20M%20A%20N%20%20G%20A%20O%20N%20K%20A%20R&fontSize=46&fontAlignY=38&desc=ELECTRONICS%20%26%20COMPUTER%20ENGINEERING%20%7C%20EDGE%20AI%20%7C%20FULL-STACK%20SYSTEMS&descSize=14&descAlignY=62&animation=twinkling" width="100%" />
-
 <!-- ══════════════ TYPING ANIMATION ══════════════ -->
 <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=24&pause=900&color=FCE30A&center=true&vCenter=true&width=850&height=70&lines=FULL-STACK+ENGINEER;EDGE+AI+%2F%2F+HARDWARE+LOGIC;DSA+%26+SYSTEM+DESIGN;LOCAL+LLM+RUNTIMES;F1+TELEMETRY+%26+STRATEGY" alt="Typing SVG" />
 
@@ -36,18 +33,18 @@
 
 </div>
 
-<div align="left">
+<div align="center">
 
-### ⚡ TECH SPECS
+## ══ TECH SPECS ══
 
-- **AI & LLM Systems** :: Local LLM Deployment & Quantization · Model Inference Pipelines · Autonomous Agent Architectures · Prompt Optimization · Edge AI Integration
-- **CLI & Terminal Systems** :: Custom Terminal Tools · CLI Utilities · Bash Scripting · TUI / Command-Line Architecture
-- **Frontend & Mobile** :: React · Next.js · Flutter · Tailwind CSS · Material UI · Linear-Style Minimalist UI
-- **Backend & Systems** :: Node.js · Express.js · FastAPI · RESTful APIs · Cryptographic Authentication · WebSockets · Peer-to-Peer Networks
-- **Databases & Storage** :: PostgreSQL · Supabase · Redis
-- **Embedded, Microcontrollers & Hardware** :: Raspberry Pi · Pico · ESP32 · Arduino · AI Hats & Hardware Accelerators · Thermal Sensors · Multi-Spectral Imaging · Hardware-Software Interfacing
-- **DevOps, Tooling & Buildchains** :: Docker · Git · Linux/Bash · Android SDK & NDK · Gradle · CI/CD · Vercel
-- **Domains** :: Distributed Systems · Custom Developer Tooling · Local LLM Runtimes · Embedded & Edge Computing · F1 Telemetry & Strategy · High-Fidelity Gaming Architecture
+**AI & LLM Systems** :: Local LLM Deployment & Quantization · Model Inference Pipelines · Autonomous Agent Architectures · Prompt Optimization · Edge AI Integration
+**CLI & Terminal Systems** :: Custom Terminal Tools · CLI Utilities · Bash Scripting · TUI / Command-Line Architecture
+**Frontend & Mobile** :: React · Next.js · Flutter · Tailwind CSS · Material UI · Linear-Style Minimalist UI
+**Backend & Systems** :: Node.js · Express.js · FastAPI · RESTful APIs · Cryptographic Authentication · WebSockets · Peer-to-Peer Networks
+**Databases & Storage** :: PostgreSQL · Supabase · Redis
+**Embedded, Microcontrollers & Hardware** :: Raspberry Pi · Pico · ESP32 · Arduino · AI Hats & Hardware Accelerators · Thermal Sensors · Multi-Spectral Imaging · Hardware-Software Interfacing
+**DevOps, Tooling & Buildchains** :: Docker · Git · Linux/Bash · Android SDK & NDK · Gradle · CI/CD · Vercel
+**Domains** :: Distributed Systems · Custom Developer Tooling · Local LLM Runtimes · Embedded & Edge Computing · F1 Telemetry & Strategy · High-Fidelity Gaming Architecture
 
 </div>
 
