@@ -5,27 +5,21 @@
 
 </div>
 
-```
-███╗   ██╗  █████╗ ███╗   ███╗  █████╗ ███╗   ██╗
-████╗  ██║██╔══██╗████╗ ████║██╔══██╗████╗  ██║
-██╔██╗ ██║███████║██╔████╔██║███████║██╔██╗ ██║
-██║╚██╗██║██╔══██║██║╚██╔╝██║██╔══██║██║╚██╗██║
-██║ ╚████║██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║
-╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+<div align="center">
 
- ██████╗  █████╗  ██████╗ ███╗   ██╗██╗  ██╗ █████╗ ██████╗ 
-██╔════╝ ██╔══██╗██╔═══██╗████╗  ██║██║ ██╔╝██╔══██╗██╔══██╗
-██║  ███╗███████║██║   ██║██╔██╗ ██║█████╔╝ ███████║██████╔╝
-██║   ██║██╔══██║██║   ██║██║╚██╗██║██╔═██╗ ██╔══██║██╔══██╗
-╚██████╔╝██║  ██║╚██████╔╝██║ ╚████║██║  ██╗██║  ██║██║  ██║
- ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
+<img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/naman-banner.svg" alt="NAMAN GAONKAR" />
+
+<br />
+
+👾 🤖 🕹️ 💾 👾 🤖
+
+</div>
 
 ---
 
 <div align="center">
 
-## ══ CORE ARCHITECTURE ══
+## 🤖 ══ CORE ARCHITECTURE ══ 🤖
 
 **Academic & Engineering Focus** :: Electronics & Computer Engineering | Hardware Logic + Edge AI + Full-Stack Systems Scale
 **Technical Stack** :: Next.js · Node.js · PostgreSQL · AWS · Go · TypeScript
@@ -35,17 +29,19 @@
 
 <div align="center">
 
-## ══ TECH SPECS ══
+## 🕹️ ══ TECH SPECS ══ 🕹️
 
 <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/tech-specs.svg" alt="Tech Specs" />
 
 </div>
 
+<div align="center">👾 🕹️ 🖥️ 💾 👾 🕹️</div>
+
 ---
 
 <div align="center">
 
-## ══ TECH ARSENAL ══
+## 👾 ══ TECH ARSENAL ══ 👾
 
 **Software & Systems**
 
@@ -63,7 +59,7 @@
 
 <div align="center">
 
-## ══ PERFORMANCE TELEMETRY ══
+## 📡 ══ PERFORMANCE TELEMETRY ══ 📡
 
 <img src="https://streak-stats.demolab.com/?user=NamanGaonkar&background=0a0a0a&border=FCE30A&stroke=FCE30A&ring=FCE30A&fire=FF9E00&currStreakNum=FCE30A&sideNums=FFFFFF&currStreakLabel=FF9E00&sideLabels=8a8a8a&dates=8a8a8a&hide_border=true" alt="GitHub Streak Stats" />
 
@@ -79,11 +75,13 @@
 
 </div>
 
+<div align="center">🚀 🛰️ 📡 🛰️ 🚀</div>
+
 ---
 
 <div align="center">
 
-## ══ THE SERPENT ══
+## 🐍 ══ THE SERPENT ══ 🐍
 
 <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/output/ocean.gif" alt="GitHub Snake" />
 
@@ -93,17 +91,19 @@
 
 <div align="center">
 
-## ══ TROPHY CASE ══
+## 🏆 ══ TROPHY CASE ══ 🏆
 
 <img src="https://trophy.ryglcloud.net/?username=NamanGaonkar&theme=onestar&margin-w=15&margin-h=15&column=8" alt="GitHub Trophies" />
 
 </div>
 
+<div align="center">🏆 🥇 🏆</div>
+
 ---
 
 <div align="center">
 
-## ══ COMMUNICATIONS ══
+## 📶 ══ COMMUNICATIONS ══ 📶
 
 <br />
 
