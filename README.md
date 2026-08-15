@@ -37,14 +37,7 @@
 
 ## ══ TECH SPECS ══
 
-**AI & LLM Systems** :: Local LLM Deployment & Quantization · Model Inference Pipelines · Autonomous Agent Architectures · Prompt Optimization · Edge AI Integration
-**CLI & Terminal Systems** :: Custom Terminal Tools · CLI Utilities · Bash Scripting · TUI / Command-Line Architecture
-**Frontend & Mobile** :: React · Next.js · Flutter · Tailwind CSS · Material UI · Linear-Style Minimalist UI
-**Backend & Systems** :: Node.js · Express.js · FastAPI · RESTful APIs · Cryptographic Authentication · WebSockets · Peer-to-Peer Networks
-**Databases & Storage** :: PostgreSQL · Supabase · Redis
-**Embedded, Microcontrollers & Hardware** :: Raspberry Pi · Pico · ESP32 · Arduino · AI Hats & Hardware Accelerators · Thermal Sensors · Multi-Spectral Imaging · Hardware-Software Interfacing
-**DevOps, Tooling & Buildchains** :: Docker · Git · Linux/Bash · Android SDK & NDK · Gradle · CI/CD · Vercel
-**Domains** :: Distributed Systems · Custom Developer Tooling · Local LLM Runtimes · Embedded & Edge Computing · F1 Telemetry & Strategy · High-Fidelity Gaming Architecture
+<img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/tech-specs.svg" alt="Tech Specs" />
 
 </div>
 

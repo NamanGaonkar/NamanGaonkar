@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="470" viewBox="0 0 860 470" role="img" aria-label="Tech Specs">
+  <rect width="860" height="470" rx="12" fill="#0a0a0a" stroke="#FCE30A" stroke-width="2"/>
+  <text x="26" y="38" font-family="'Courier New',Courier,monospace" font-size="13" font-weight="bold" fill="#FCE30A">AI &amp; LLM SYSTEMS</text>
+  <text x="26" y="60" font-family="'Courier New',Courier,monospace" font-size="12" fill="#b8b8b8">Local LLM Deployment &amp; Quantization · Model Inference Pipelines · Autonomous Agent Architectures · Prompt Optimization · Edge AI Integration</text>
+
+  <text x="26" y="88" font-family="'Courier New',Courier,monospace" font-size="13" font-weight="bold" fill="#FCE30A">CLI &amp; TERMINAL SYSTEMS</text>
+  <text x="26" y="110" font-family="'Courier New',Courier,monospace" font-size="12" fill="#b8b8b8">Custom Terminal Tools · CLI Utilities · Bash Scripting · TUI / Command-Line Architecture</text>
+
+  <text x="26" y="138" font-family="'Courier New',Courier,monospace" font-size="13" font-weight="bold" fill="#FCE30A">FRONTEND &amp; MOBILE</text>
+  <text x="26" y="160" font-family="'Courier New',Courier,monospace" font-size="12" fill="#b8b8b8">React · Next.js · Flutter · Tailwind CSS · Material UI · Linear-Style Minimalist UI</text>
+
+  <text x="26" y="188" font-family="'Courier New',Courier,monospace" font-size="13" font-weight="bold" fill="#FCE30A">BACKEND &amp; SYSTEMS</text>
+  <text x="26" y="210" font-family="'Courier New',Courier,monospace" font-size="12" fill="#b8b8b8">Node.js · Express.js · FastAPI · RESTful APIs · Cryptographic Authentication · WebSockets · Peer-to-Peer Networks</text>
+
+  <text x="26" y="238" font-family="'Courier New',Courier,monospace" font-size="13" font-weight="bold" fill="#FCE30A">DATABASES &amp; STORAGE</text>
+  <text x="26" y="260" font-family="'Courier New',Courier,monospace" font-size="12" fill="#b8b8b8">PostgreSQL · Supabase · Redis</text>
+
+  <text x="26" y="288" font-family="'Courier New',Courier,monospace" font-size="13" font-weight="bold" fill="#FCE30A">EMBEDDED, MICROCONTROLLERS &amp; HARDWARE</text>
+  <text x="26" y="310" font-family="'Courier New',Courier,monospace" font-size="12" fill="#b8b8b8">Raspberry Pi · Pico · ESP32 · Arduino · AI Hats &amp; Hardware Accelerators</text>
+  <text x="26" y="332" font-family="'Courier New',Courier,monospace" font-size="12" fill="#b8b8b8">Thermal Sensors · Multi-Spectral Imaging · Hardware-Software Interfacing</text>
+
+  <text x="26" y="360" font-family="'Courier New',Courier,monospace" font-size="13" font-weight="bold" fill="#FCE30A">DEVOPS, TOOLING &amp; BUILDCHAINS</text>
+  <text x="26" y="382" font-family="'Courier New',Courier,monospace" font-size="12" fill="#b8b8b8">Docker · Git · Linux/Bash · Android SDK &amp; NDK · Gradle · CI/CD · Vercel</text>
+
+  <text x="26" y="410" font-family="'Courier New',Courier,monospace" font-size="13" font-weight="bold" fill="#FCE30A">DOMAINS</text>
+  <text x="26" y="432" font-family="'Courier New',Courier,monospace" font-size="12" fill="#b8b8b8">Distributed Systems · Custom Developer Tooling · Local LLM Runtimes · Embedded</text>
+  <text x="26" y="454" font-family="'Courier New',Courier,monospace" font-size="12" fill="#b8b8b8">&amp; Edge Computing · F1 Telemetry &amp; Strategy · High-Fidelity Gaming Architecture</text>
+</svg>
