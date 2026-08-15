@@ -4,27 +4,24 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE30A,100:FF9E00&height=220&section=header&text=N%20A%20M%20A%20N%20%20G%20A%20O%20N%20K%20A%20R&fontSize=46&fontAlignY=38&desc=ELECTRONICS%20%26%20COMPUTER%20ENGINEERING%20%7C%20EDGE%20AI%20%7C%20FULL-STACK%20SYSTEMS&descSize=14&descAlignY=62&animation=twinkling" width="100%" />
 
 <!-- ══════════════ TYPING ANIMATION ══════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=FCE30A&center=true&vCenter=true&width=850&height=70&lines=%3E_+FULL-STACK+ENGINEER;%3E_+EDGE+AI+%2F%2F+HARDWARE+LOGIC;%3E_+DSA+%26+SYSTEM+DESIGN;%3E_+LOCAL+LLM+RUNTIMES;%3E_+F1+TELEMETRY+%26+STRATEGY" alt="Typing SVG" />
-
-<!-- ══════════════ VISITOR TRACKER ══════════════ -->
-<img src="https://komarev.com/ghpvc/?username=NamanGaonkar&color=FCE30A&style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=FCE30A&center=true&vCenter=true&width=850&height=70&lines=FULL-STACK+ENGINEER;EDGE+AI+%2F%2F+HARDWARE+LOGIC;DSA+%26+SYSTEM+DESIGN;LOCAL+LLM+RUNTIMES;F1+TELEMETRY+%26+STRATEGY" alt="Typing SVG" />
 
 </div>
 
 ```
-███╗   ██╗ █████╗ ███╗   ███╗ █████╗ ███╗   ██╗
+███╗   ██╗  █████╗ ███╗   ███╗  █████╗ ███╗   ██╗
 ████╗  ██║██╔══██╗████╗ ████║██╔══██╗████╗  ██║
 ██╔██╗ ██║███████║██╔████╔██║███████║██╔██╗ ██║
 ██║╚██╗██║██╔══██║██║╚██╔╝██║██╔══██║██║╚██╗██║
 ██║ ╚████║██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║
 ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
 
-```
->_ night.city.time 22:07 :: system.booting ████████████████ 100%
->_ loading modules : hardware.logic ▸ edge.ai ▸ full-stack.systems
->_ NAMAN.OS v2.0.77 — cyberdeck ONLINE
->_ all systems nominal // welcome to the net
+ ██████╗  █████╗  ██████╗ ███╗   ██╗██╗  ██╗ █████╗ ██████╗ 
+██╔════╝ ██╔══██╗██╔═══██╗████╗  ██║██║ ██╔╝██╔══██╗██╔══██╗
+██║  ███╗███████║██║   ██║██╔██╗ ██║█████╔╝ ███████║██████╔╝
+██║   ██║██╔══██║██║   ██║██║╚██╗██║██╔═██╗ ██╔══██║██╔══██╗
+╚██████╔╝██║  ██║╚██████╔╝██║ ╚████║██║  ██╗██║  ██║██║  ██║
+ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
 ---
@@ -98,9 +95,7 @@
 
 ## ══ THE SERPENT ══
 
-*feed the snake — it devours your contribution grid every night*
-
-<img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/output/github-snake-dark.svg" alt="GitHub Snake" />
+<img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/output/ocean.gif" alt="GitHub Snake" />
 
 </div>
 
@@ -131,12 +126,6 @@
 <a href="https://github.com/NamanGaonkar">
   <img src="https://img.shields.io/badge/GITHUB-0a0a0a?style=for-the-badge&logo=github&logoColor=FCE30A" alt="GitHub" />
 </a>
-
-<br /><br />
-
-```
->_ connection established — always building, always hacking ⚡
-```
 
 </div>
 
