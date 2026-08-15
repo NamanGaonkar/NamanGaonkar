@@ -1,13 +1,18 @@
 <div align="center">
 
-<!-- ══════════════ TYPING ANIMATION ══════════════ -->
-<img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=24&pause=900&color=FCE30A&center=true&vCenter=true&width=850&height=70&lines=FULL-STACK+ENGINEER;EDGE+AI+%2F%2F+HARDWARE+LOGIC;DSA+%26+SYSTEM+DESIGN;LOCAL+LLM+RUNTIMES;F1+TELEMETRY+%26+STRATEGY" alt="Typing SVG" />
-
-</div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/naman-banner.svg" alt="NAMAN GAONKAR" width="540" /> <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/character.gif" alt="DAZZLE SHIP" width="300" />
+<!-- ══════════════ BANNER + TYPING + GIF ══════════════ -->
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/naman-banner.svg" alt="NAMAN GAONKAR" width="540" />
+    </td>
+    <td align="center">
+      <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=24&pause=900&color=FCE30A&center=true&vCenter=true&width=440&height=70&lines=FULL-STACK+ENGINEER;EDGE+AI+%2F%2F+HARDWARE+LOGIC;DSA+%26+SYSTEM+DESIGN;LOCAL+LLM+RUNTIMES;F1+TELEMETRY+%26+STRATEGY" alt="Typing SVG" />
+      <br />
+      <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/character.gif" alt="DAZZLE SHIP" width="300" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
