@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/naman-banner.svg" alt="NAMAN GAONKAR" width="480" /> <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/character.gif" alt="DAZZLE SHIP" width="300" />
+<img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/naman-banner.svg" alt="NAMAN GAONKAR" width="540" /> <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/character.gif" alt="DAZZLE SHIP" width="300" />
 
 </div>
 
