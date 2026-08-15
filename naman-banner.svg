@@ -1,16 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="404" viewBox="0 0 1000 404" role="img" aria-label="NAMAN GAONKAR">
-  <g font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="24" fill="#FCE30A" text-anchor="middle">
-    <text x="500" y="40">███╗   ██╗  █████╗ ███╗   ███╗  █████╗ ███╗   ██╗</text>
-    <text x="500" y="68">████╗  ██║██╔══██╗████╗ ████║██╔══██╗████╗  ██║</text>
-    <text x="500" y="96">██╔██╗ ██║███████║██╔████╔██║███████║██╔██╗ ██║</text>
-    <text x="500" y="124">██║╚██╗██║██╔══██║██║╚██╔╝██║██╔══██║██║╚██╗██║</text>
-    <text x="500" y="152">██║ ╚████║██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║</text>
-    <text x="500" y="180">╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝</text>
-    <text x="500" y="236"> ██████╗  █████╗  ██████╗ ███╗   ██╗██╗  ██╗ █████╗ ██████╗ </text>
-    <text x="500" y="264">██╔════╝ ██╔══██╗██╔═══██╗████╗  ██║██║ ██╔╝██╔══██╗██╔══██╗</text>
-    <text x="500" y="292">██║  ███╗███████║██║   ██║██╔██╗ ██║█████╔╝ ███████║██████╔╝</text>
-    <text x="500" y="320">██║   ██║██╔══██║██║   ██║██║╚██╗██║██╔═██╗ ██╔══██║██╔══██╗</text>
-    <text x="500" y="348">╚██████╔╝██║  ██║╚██████╔╝██║ ╚████║██║  ██╗██║  ██║██║  ██║</text>
-    <text x="500" y="376"> ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="320" viewBox="0 0 560 320" role="img" aria-label="NAMAN GAONKAR">
+  <g font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="22" fill="#FCE30A" text-anchor="middle">
+    <text x="280" y="34">N   N  AAA  M   M  AAA  N   N</text>
+    <text x="280" y="60">NN  N A   A MM MM A   A NN  N</text>
+    <text x="280" y="86">N N N AAAAA M M M AAAAA N N N</text>
+    <text x="280" y="112">N  NN A   A M   M A   A N  NN</text>
+    <text x="280" y="138">N   N A   A M   M A   A N   N</text>
+    <text x="280" y="190"> GGG   AAA   OOO  N   N K   K  AAA  RRRR </text>
+    <text x="280" y="216">G     A   A O   O NN  N K  K  A   A R   R</text>
+    <text x="280" y="242">G GGG AAAAA O   O N N N KKK   AAAAA RRRR </text>
+    <text x="280" y="268">G   G A   A O   O N  NN K  K  A   A R  R </text>
+    <text x="280" y="294"> GGG  A   A  OOO  N   N K   K A   A R   R</text>
   </g>
 </svg>

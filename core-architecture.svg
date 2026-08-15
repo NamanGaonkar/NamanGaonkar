@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="210" viewBox="0 0 860 210" role="img" aria-label="Core Architecture">
+  <rect width="860" height="210" rx="12" fill="#0a0a0a" stroke="#FCE30A" stroke-width="2"/>
+  <text x="26" y="38" font-family="'Courier New',Consolas,monospace" font-size="13" font-weight="bold" fill="#FCE30A">ACADEMIC &amp; ENGINEERING FOCUS</text>
+  <text x="26" y="60" font-family="'Courier New',Consolas,monospace" font-size="12" fill="#b8b8b8">Electronics &amp; Computer Engineering | Hardware Logic + Edge AI + Full-Stack Systems Scale</text>
+  <text x="26" y="88" font-family="'Courier New',Consolas,monospace" font-size="13" font-weight="bold" fill="#FCE30A">TECHNICAL STACK</text>
+  <text x="26" y="110" font-family="'Courier New',Consolas,monospace" font-size="12" fill="#b8b8b8">Next.js · Node.js · PostgreSQL · AWS · Go · TypeScript</text>
+  <text x="26" y="138" font-family="'Courier New',Consolas,monospace" font-size="13" font-weight="bold" fill="#FCE30A">INTERESTS</text>
+  <text x="26" y="160" font-family="'Courier New',Consolas,monospace" font-size="12" fill="#b8b8b8">Distributed Systems · Embedded &amp; Edge Computing · Local LLM Runtimes ·</text>
+  <text x="26" y="182" font-family="'Courier New',Consolas,monospace" font-size="12" fill="#b8b8b8">Formula 1 Telemetry &amp; Strategy · Strategic Gaming</text>
+</svg>

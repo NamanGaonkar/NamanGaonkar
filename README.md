@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/naman-banner.svg" alt="NAMAN GAONKAR" />
+<img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/naman-banner.svg" alt="NAMAN GAONKAR" width="480" /> <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/character.gif" alt="DAZZLE SHIP" width="300" />
 
 </div>
 
@@ -19,9 +19,7 @@
 
 <br />
 
-**Academic & Engineering Focus** :: Electronics & Computer Engineering | Hardware Logic + Edge AI + Full-Stack Systems Scale
-**Technical Stack** :: Next.js · Node.js · PostgreSQL · AWS · Go · TypeScript
-**Interests** :: Distributed Systems · Embedded & Edge Computing · Local LLM Runtimes · Formula 1 Telemetry & Strategy · Strategic Gaming
+<img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/core-architecture.svg" alt="Core Architecture" />
 
 </div>
 
