@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 320" width="100%" height="320">
   <defs>
-    <!-- Top Gradient: Vivid Neon Lilac to Deep Violet -->
+    <!-- Top Gradient: Neon Purple to Deep Violet -->
     <linearGradient id="purpleGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#E9D5FF" />
-      <stop offset="45%" stop-color="#C084FC" />
-      <stop offset="100%" stop-color="#9333EA" />
+      <stop offset="0%" stop-color="#C084FC" />
+      <stop offset="50%" stop-color="#A855F7" />
+      <stop offset="100%" stop-color="#7E22CE" />
     </linearGradient>
 
-    <!-- Bottom Gradient: Cyber Yellow to Warm Amber Gold -->
+    <!-- Bottom Gradient: Cyber Yellow to Amber Gold -->
     <linearGradient id="yellowGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#FEF08A" />
+      <stop offset="0%" stop-color="#FDE047" />
       <stop offset="50%" stop-color="#FACC15" />
-      <stop offset="100%" stop-color="#EAB308" />
+      <stop offset="100%" stop-color="#F59E0B" />
     </linearGradient>
 
     <!-- Drop Shadow for Neon Depth -->
