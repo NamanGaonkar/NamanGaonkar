@@ -1,67 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 320" width="100%" height="320">
-  <defs>
-    <!-- Top Gradient: Neon Purple to Deep Violet -->
-    <linearGradient id="purpleGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#C084FC" />
-      <stop offset="50%" stop-color="#A855F7" />
-      <stop offset="100%" stop-color="#7E22CE" />
-    </linearGradient>
-
-    <!-- Bottom Gradient: Cyber Yellow to Amber Gold -->
-    <linearGradient id="yellowGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#FDE047" />
-      <stop offset="50%" stop-color="#FACC15" />
-      <stop offset="100%" stop-color="#F59E0B" />
-    </linearGradient>
-
-    <!-- Drop Shadow for Neon Depth -->
-    <filter id="neonShadow" x="-10%" y="-10%" width="120%" height="120%">
-      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.85"/>
-    </filter>
-  </defs>
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 250" width="100%" height="100%">
   <style>
-    .ascii-purple {
+    .ascii {
       font-family: 'Courier New', Consolas, 'Fira Code', monospace;
-      font-size: 15px;
+      font-size: 16px;
       font-weight: 900;
-      fill: url(#purpleGradient);
-      stroke: #D8B4FE;
-      stroke-width: 0.35px;
       white-space: pre;
-      filter: url(#neonShadow);
     }
-    .ascii-yellow {
-      font-family: 'Courier New', Consolas, 'Fira Code', monospace;
-      font-size: 15px;
-      font-weight: 900;
-      fill: url(#yellowGradient);
-      stroke: #CA8A04;
-      stroke-width: 0.35px;
-      white-space: pre;
-      filter: url(#neonShadow);
-    }
+    .purple { fill: #A855F7; }
+    .yellow { fill: #FACC15; }
   </style>
 
-  <rect width="100%" height="100%" fill="transparent"/>
-
-  <!-- TOP: NAMAN (Neon Purple / Lilac) -->
-  <text x="50%" y="30" text-anchor="middle" class="ascii-purple" xml:space="preserve">
-    <tspan x="50%" dy="0">███╗   ██╗ █████╗ ███╗   ███╗ █████╗ ███╗   ██╗</tspan>
-    <tspan x="50%" dy="16">████╗  ██║██╔══██╗████╗ ████║██╔══██╗████╗  ██║</tspan>
-    <tspan x="50%" dy="16">██╔██╗ ██║███████║██╔████╔██║███████║██╔██╗ ██║</tspan>
-    <tspan x="50%" dy="16">██║╚██╗██║██╔══██║██║╚██╔╝██║██╔══██║██║╚██╗██║</tspan>
-    <tspan x="50%" dy="16">██║ ╚████║██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║</tspan>
-    <tspan x="50%" dy="16">╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝</tspan>
+  <!-- NAMAN (Neon Purple) -->
+  <text x="0" y="18" class="ascii purple" xml:space="preserve">
+    <tspan x="0" dy="0">███╗   ██╗ █████╗ ███╗   ███╗ █████╗ ███╗   ██╗</tspan>
+    <tspan x="0" dy="19">████╗  ██║██╔══██╗████╗ ████║██╔══██╗████╗  ██║</tspan>
+    <tspan x="0" dy="19">██╔██╗ ██║███████║██╔████╔██║███████║██╔██╗ ██║</tspan>
+    <tspan x="0" dy="19">██║╚██╗██║██╔══██║██║╚██╔╝██║██╔══██║██║╚██╗██║</tspan>
+    <tspan x="0" dy="19">██║ ╚████║██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║</tspan>
+    <tspan x="0" dy="19">╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝</tspan>
   </text>
 
-  <!-- BOTTOM: GAONKAR (Cyber Yellow / Amber Gold) -->
-  <text x="50%" y="165" text-anchor="middle" class="ascii-yellow" xml:space="preserve">
-    <tspan x="50%" dy="0"> ██████╗  █████╗  ██████╗ ███╗   ██╗██╗  ██╗ █████╗ ██████╗ </tspan>
-    <tspan x="50%" dy="16">██╔════╝ ██╔══██╗██╔═══██╗████╗  ██║██║ ██╔╝██╔══██╗██╔══██╗</tspan>
-    <tspan x="50%" dy="16">██║  ███╗███████║██║   ██║██╔██╗ ██║█████╔╝ ███████║██████╔╝</tspan>
-    <tspan x="50%" dy="16">██║   ██║██╔══██║██║   ██║██║╚██╗██║██╔═██╗ ██╔══██║██╔══██╗</tspan>
-    <tspan x="50%" dy="16">╚██████╔╝██║  ██║╚██████╔╝██║ ╚████║██║  ██╗██║  ██║██║  ██║</tspan>
-    <tspan x="50%" dy="16"> ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝</tspan>
+  <!-- GAONKAR (Cyber Yellow) -->
+  <text x="0" y="135" class="ascii yellow" xml:space="preserve">
+    <tspan x="0" dy="0"> ██████╗  █████╗  ██████╗ ███╗   ██╗██╗  ██╗ █████╗ ██████╗ </tspan>
+    <tspan x="0" dy="19">██╔════╝ ██╔══██╗██╔═══██╗████╗  ██║██║ ██╔╝██╔══██╗██╔══██╗</tspan>
+    <tspan x="0" dy="19">██║  ███╗███████║██║   ██║██╔██╗ ██║█████╔╝ ███████║██████╔╝</tspan>
+    <tspan x="0" dy="19">██║   ██║██╔══██║██║   ██║██║╚██╗██║██╔═██╗ ██╔══██║██╔══██╗</tspan>
+    <tspan x="0" dy="19">╚██████╔╝██║  ██║╚██████╔╝██║ ╚████║██║  ██╗██║  ██║██║  ██║</tspan>
+    <tspan x="0" dy="19"> ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝</tspan>
   </text>
 </svg>
