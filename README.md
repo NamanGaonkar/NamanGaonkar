@@ -9,10 +9,6 @@
 
 <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/naman-banner.svg" alt="NAMAN GAONKAR" />
 
-<br />
-
-👾 🤖 🕹️ 💾 👾 🤖
-
 </div>
 
 ---
@@ -20,6 +16,8 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/h-core.svg" alt="CORE ARCHITECTURE" />
+
+<br />
 
 **Academic & Engineering Focus** :: Electronics & Computer Engineering | Hardware Logic + Edge AI + Full-Stack Systems Scale
 **Technical Stack** :: Next.js · Node.js · PostgreSQL · AWS · Go · TypeScript
@@ -31,17 +29,19 @@
 
 <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/h-tech-specs.svg" alt="TECH SPECS" />
 
+<br />
+
 <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/tech-specs.svg" alt="Tech Specs" />
 
 </div>
-
-<div align="center">👾 🕹️ 🖥️ 💾 👾 🕹️</div>
 
 ---
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/h-tech-arsenal.svg" alt="TECH ARSENAL" />
+
+<br />
 
 **Software & Systems**
 
@@ -61,13 +61,13 @@
 
 <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/h-telemetry.svg" alt="PERFORMANCE TELEMETRY" />
 
+<br />
+
 <img src="https://streak-stats.demolab.com/?user=NamanGaonkar&background=0a0a0a&border=FCE30A&stroke=FCE30A&ring=FCE30A&fire=FF9E00&currStreakNum=FCE30A&sideNums=FFFFFF&currStreakLabel=FF9E00&sideLabels=8a8a8a&dates=8a8a8a&hide_border=true" alt="GitHub Streak Stats" />
 
 <br /><br />
 
-<a href="https://leetcode.com/u/namangaonkar/">
-  <img src="https://leetcard.jacoblin.cool/namangaonkar?colors=0a0a0a,141414,f5f5f5,8a8a8a,FCE30A,FF9E00,FFD700,E6C200&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-</a>
+<a href="https://leetcode.com/u/namangaonkar/"><img src="https://leetcard.jacoblin.cool/namangaonkar?colors=0a0a0a,141414,f5f5f5,8a8a8a,FCE30A,FF9E00,FFD700,E6C200&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" /></a>
 
 <br /><br />
 
@@ -75,13 +75,13 @@
 
 </div>
 
-<div align="center">🚀 🛰️ 📡 🛰️ 🚀</div>
-
 ---
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/h-serpent.svg" alt="THE SERPENT" />
+
+<br />
 
 <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/output/ocean.gif" alt="GitHub Snake" />
 
@@ -93,17 +93,19 @@
 
 <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/h-trophy.svg" alt="TROPHY CASE" />
 
+<br />
+
 <img src="https://trophy.ryglcloud.net/?username=NamanGaonkar&theme=onestar&margin-w=15&margin-h=15&column=8" alt="GitHub Trophies" />
 
 </div>
-
-<div align="center">🏆 🥇 🏆</div>
 
 ---
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/h-comm.svg" alt="COMMUNICATIONS" />
+
+<br />
 
 <br />
 
