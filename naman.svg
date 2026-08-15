@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 320" width="100%" height="320">
+  <defs>
+    <!-- Top Gradient: Vivid Neon Lilac to Deep Violet -->
+    <linearGradient id="purpleGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#E9D5FF" />
+      <stop offset="45%" stop-color="#C084FC" />
+      <stop offset="100%" stop-color="#9333EA" />
+    </linearGradient>
+
+    <!-- Bottom Gradient: Cyber Yellow to Warm Amber Gold -->
+    <linearGradient id="yellowGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FEF08A" />
+      <stop offset="50%" stop-color="#FACC15" />
+      <stop offset="100%" stop-color="#EAB308" />
+    </linearGradient>
+
+    <!-- Drop Shadow for Neon Depth -->
+    <filter id="neonShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.85"/>
+    </filter>
+  </defs>
+
+  <style>
+    .ascii-purple {
+      font-family: 'Courier New', Consolas, 'Fira Code', monospace;
+      font-size: 15px;
+      font-weight: 900;
+      fill: url(#purpleGradient);
+      stroke: #D8B4FE;
+      stroke-width: 0.35px;
+      white-space: pre;
+      filter: url(#neonShadow);
+    }
+    .ascii-yellow {
+      font-family: 'Courier New', Consolas, 'Fira Code', monospace;
+      font-size: 15px;
+      font-weight: 900;
+      fill: url(#yellowGradient);
+      stroke: #CA8A04;
+      stroke-width: 0.35px;
+      white-space: pre;
+      filter: url(#neonShadow);
+    }
+  </style>
+
+  <rect width="100%" height="100%" fill="transparent"/>
+
+  <!-- TOP: NAMAN (Neon Purple / Lilac) -->
+  <text x="50%" y="30" text-anchor="middle" class="ascii-purple" xml:space="preserve">
+    <tspan x="50%" dy="0">███╗   ██╗ █████╗ ███╗   ███╗ █████╗ ███╗   ██╗</tspan>
+    <tspan x="50%" dy="16">████╗  ██║██╔══██╗████╗ ████║██╔══██╗████╗  ██║</tspan>
+    <tspan x="50%" dy="16">██╔██╗ ██║███████║██╔████╔██║███████║██╔██╗ ██║</tspan>
+    <tspan x="50%" dy="16">██║╚██╗██║██╔══██║██║╚██╔╝██║██╔══██║██║╚██╗██║</tspan>
+    <tspan x="50%" dy="16">██║ ╚████║██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║</tspan>
+    <tspan x="50%" dy="16">╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝</tspan>
+  </text>
+
+  <!-- BOTTOM: GAONKAR (Cyber Yellow / Amber Gold) -->
+  <text x="50%" y="165" text-anchor="middle" class="ascii-yellow" xml:space="preserve">
+    <tspan x="50%" dy="0"> ██████╗  █████╗  ██████╗ ███╗   ██╗██╗  ██╗ █████╗ ██████╗ </tspan>
+    <tspan x="50%" dy="16">██╔════╝ ██╔══██╗██╔═══██╗████╗  ██║██║ ██╔╝██╔══██╗██╔══██╗</tspan>
+    <tspan x="50%" dy="16">██║  ███╗███████║██║   ██║██╔██╗ ██║█████╔╝ ███████║██████╔╝</tspan>
+    <tspan x="50%" dy="16">██║   ██║██╔══██║██║   ██║██║╚██╗██║██╔═██╗ ██╔══██║██╔══██╗</tspan>
+    <tspan x="50%" dy="16">╚██████╔╝██║  ██║╚██████╔╝██║ ╚████║██║  ██╗██║  ██║██║  ██║</tspan>
+    <tspan x="50%" dy="16"> ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝</tspan>
+  </text>
+</svg>
