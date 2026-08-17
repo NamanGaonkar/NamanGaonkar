@@ -106,6 +106,10 @@
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/spidey.gif" alt="Spidey" width="480" />
+
+<br />
+
 <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/h-comm.svg" alt="COMMUNICATIONS" />
 
 <br />
