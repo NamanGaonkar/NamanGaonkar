@@ -9,7 +9,7 @@
     <td align="center">
       <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=24&pause=900&color=FCE30A&center=true&vCenter=true&width=340&height=70&lines=FULL-STACK+ENGINEER;EDGE+AI+%2F%2F+HARDWARE+LOGIC;DSA+%26+SYSTEM+DESIGN;LOCAL+LLM+RUNTIMES;F1+TELEMETRY+%26+STRATEGY" alt="Typing SVG" />
       <br />
-      <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/character.gif" alt="DAZZLE SHIP" width="300" />
+      <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/character.gif" alt="DAZZLE SHIP" width="300" style="border: 3px solid #FCE30A; border-radius: 10px;" />
     </td>
   </tr>
 </table>
@@ -24,7 +24,7 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/core-architecture.svg" alt="Core Architecture" />
+<img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/core-architecture.svg?v=2" alt="Core Architecture" />
 
 </div>
 
@@ -34,7 +34,7 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/tech-specs.svg" alt="Tech Specs" />
+<img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/tech-specs.svg?v=2" alt="Tech Specs" />
 
 </div>
 
@@ -106,7 +106,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/spidey.gif" alt="Spidey" width="480" />
+<img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/spidey.gif" alt="Spidey" width="480" style="border: 3px solid #FCE30A; border-radius: 10px;" />
 
 <br />
 
@@ -122,8 +122,8 @@
 <a href="mailto:namanrgaonkar@gmail.com">
   <img src="https://img.shields.io/badge/SEND_SIGNAL-FF9E00?style=for-the-badge&logo=gmail&logoColor=0a0a0a" alt="Email" />
 </a>
-<a href="https://github.com/NamanGaonkar">
-  <img src="https://img.shields.io/badge/GITHUB-0a0a0a?style=for-the-badge&logo=github&logoColor=FCE30A" alt="GitHub" />
+<a href="https://www.instagram.com/namanrgaonkar/">
+  <img src="https://img.shields.io/badge/INSTAGRAM-0a0a0a?style=for-the-badge&logo=instagram&logoColor=FCE30A" alt="Instagram" />
 </a>
 
 </div>

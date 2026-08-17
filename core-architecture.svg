@@ -1,11 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="280" viewBox="0 0 860 280" role="img" aria-label="Core Architecture">
-  <rect width="860" height="280" rx="12" fill="#0a0a0a" stroke="#FCE30A" stroke-width="2"/>
-  <text x="26" y="44" font-family="'Courier New',Consolas,monospace" font-size="17" font-weight="bold" fill="#FCE30A">ACADEMIC &amp; ENGINEERING FOCUS</text>
-  <text x="26" y="74" font-family="'Courier New',Consolas,monospace" font-size="16" fill="#cccccc">Electronics &amp; Computer Engineering | Hardware Logic +</text>
-  <text x="26" y="102" font-family="'Courier New',Consolas,monospace" font-size="16" fill="#cccccc">Edge AI + Full-Stack Systems Scale</text>
-  <text x="26" y="134" font-family="'Courier New',Consolas,monospace" font-size="17" font-weight="bold" fill="#FCE30A">TECHNICAL STACK</text>
-  <text x="26" y="164" font-family="'Courier New',Consolas,monospace" font-size="16" fill="#cccccc">Next.js · Node.js · PostgreSQL · AWS · Go · TypeScript</text>
-  <text x="26" y="196" font-family="'Courier New',Consolas,monospace" font-size="17" font-weight="bold" fill="#FCE30A">INTERESTS</text>
-  <text x="26" y="226" font-family="'Courier New',Consolas,monospace" font-size="16" fill="#cccccc">Distributed Systems · Embedded &amp; Edge Computing · Local LLM Runtimes ·</text>
-  <text x="26" y="254" font-family="'Courier New',Consolas,monospace" font-size="16" fill="#cccccc">Formula 1 Telemetry &amp; Strategy · Strategic Gaming</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="250" viewBox="0 0 860 250" role="img" aria-label="Core Architecture">
+  <rect width="860" height="250" rx="12" fill="#0a0a0a" stroke="#FCE30A" stroke-width="2"/>
+  <text x="26" y="48" font-family="'Courier New',Consolas,monospace" font-size="19" font-weight="bold" fill="#FCE30A">ACADEMIC &amp; ENGINEERING FOCUS</text>
+  <text x="26" y="82" font-family="'Courier New',Consolas,monospace" font-size="18" fill="#e6e6e6">Electronics &amp; Computer Engineering | Hardware Logic +</text>
+  <text x="26" y="112" font-family="'Courier New',Consolas,monospace" font-size="18" fill="#e6e6e6">Edge AI + Full-Stack Systems Scale</text>
+  <text x="26" y="148" font-family="'Courier New',Consolas,monospace" font-size="19" font-weight="bold" fill="#FCE30A">INTERESTS</text>
+  <text x="26" y="182" font-family="'Courier New',Consolas,monospace" font-size="18" fill="#e6e6e6">Distributed Systems · Embedded &amp; Edge Computing ·</text>
+  <text x="26" y="212" font-family="'Courier New',Consolas,monospace" font-size="18" fill="#e6e6e6">Local LLM Runtimes · F1 Telemetry &amp; Strategy · Strategic Gaming</text>
 </svg>
