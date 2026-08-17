@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="250" viewBox="0 0 860 250" role="img" aria-label="Core Architecture">
   <rect width="860" height="250" rx="12" fill="#0a0a0a" stroke="#FCE30A" stroke-width="2"/>
-  <text x="26" y="48" font-family="'Courier New',Consolas,monospace" font-size="19" font-weight="bold" fill="#FCE30A">ACADEMIC &amp; ENGINEERING FOCUS</text>
-  <text x="26" y="82" font-family="'Courier New',Consolas,monospace" font-size="18" fill="#e6e6e6">Electronics &amp; Computer Engineering | Hardware Logic +</text>
-  <text x="26" y="112" font-family="'Courier New',Consolas,monospace" font-size="18" fill="#e6e6e6">Edge AI + Full-Stack Systems Scale</text>
-  <text x="26" y="148" font-family="'Courier New',Consolas,monospace" font-size="19" font-weight="bold" fill="#FCE30A">INTERESTS</text>
-  <text x="26" y="182" font-family="'Courier New',Consolas,monospace" font-size="18" fill="#e6e6e6">Distributed Systems · Embedded &amp; Edge Computing ·</text>
-  <text x="26" y="212" font-family="'Courier New',Consolas,monospace" font-size="18" fill="#e6e6e6">Local LLM Runtimes · F1 Telemetry &amp; Strategy · Strategic Gaming</text>
+  <text x="26" y="48" font-family="'Courier New',Consolas,monospace" font-size="18" font-weight="bold" fill="#FCE30A">ACADEMIC &amp; ENGINEERING FOCUS</text>
+  <text x="26" y="82" font-family="'Courier New',Consolas,monospace" font-size="17" fill="#e6e6e6">Electronics &amp; Computer Engineering | Hardware Logic +</text>
+  <text x="26" y="112" font-family="'Courier New',Consolas,monospace" font-size="17" fill="#e6e6e6">Edge AI + Full-Stack Systems Scale</text>
+  <text x="26" y="148" font-family="'Courier New',Consolas,monospace" font-size="18" font-weight="bold" fill="#FCE30A">INTERESTS</text>
+  <text x="26" y="182" font-family="'Courier New',Consolas,monospace" font-size="17" fill="#e6e6e6">Distributed Systems · Embedded &amp; Edge Computing ·</text>
+  <text x="26" y="212" font-family="'Courier New',Consolas,monospace" font-size="17" fill="#e6e6e6">Local LLM Runtimes · F1 Telemetry &amp; Strategy · Strategic Gaming</text>
 </svg>

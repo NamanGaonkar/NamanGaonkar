@@ -1,36 +1,36 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="888" viewBox="0 0 860 888" role="img" aria-label="Tech Specs">
   <rect width="860" height="888" rx="12" fill="#0a0a0a" stroke="#FCE30A" stroke-width="2"/>
-  <text x="26" y="48" font-family="'Courier New',Courier,monospace" font-size="19" font-weight="bold" fill="#FCE30A">AI &amp; LLM SYSTEMS</text>
-  <text x="26" y="80" font-family="'Courier New',Courier,monospace" font-size="18" fill="#e6e6e6">Local LLM Deployment &amp; Quantization · Model Inference Pipelines ·</text>
-  <text x="26" y="112" font-family="'Courier New',Courier,monospace" font-size="18" fill="#e6e6e6">Autonomous Agent Architectures · Prompt Optimization ·</text>
-  <text x="26" y="144" font-family="'Courier New',Courier,monospace" font-size="18" fill="#e6e6e6">Edge AI Integration</text>
+  <text x="26" y="48" font-family="'Courier New',Courier,monospace" font-size="18" font-weight="bold" fill="#FCE30A">AI &amp; LLM SYSTEMS</text>
+  <text x="26" y="80" font-family="'Courier New',Courier,monospace" font-size="17" fill="#e6e6e6">Local LLM Deployment &amp; Quantization · Model Inference Pipelines ·</text>
+  <text x="26" y="112" font-family="'Courier New',Courier,monospace" font-size="17" fill="#e6e6e6">Autonomous Agent Architectures · Prompt Optimization ·</text>
+  <text x="26" y="144" font-family="'Courier New',Courier,monospace" font-size="17" fill="#e6e6e6">Edge AI Integration</text>
 
-  <text x="26" y="176" font-family="'Courier New',Courier,monospace" font-size="19" font-weight="bold" fill="#FCE30A">CLI &amp; TERMINAL SYSTEMS</text>
-  <text x="26" y="208" font-family="'Courier New',Courier,monospace" font-size="18" fill="#e6e6e6">Custom Terminal Tools · CLI Utilities · Bash Scripting ·</text>
-  <text x="26" y="240" font-family="'Courier New',Courier,monospace" font-size="18" fill="#e6e6e6">TUI / Command-Line Architecture</text>
+  <text x="26" y="176" font-family="'Courier New',Courier,monospace" font-size="18" font-weight="bold" fill="#FCE30A">CLI &amp; TERMINAL SYSTEMS</text>
+  <text x="26" y="208" font-family="'Courier New',Courier,monospace" font-size="17" fill="#e6e6e6">Custom Terminal Tools · CLI Utilities · Bash Scripting ·</text>
+  <text x="26" y="240" font-family="'Courier New',Courier,monospace" font-size="17" fill="#e6e6e6">TUI / Command-Line Architecture</text>
 
-  <text x="26" y="272" font-family="'Courier New',Courier,monospace" font-size="19" font-weight="bold" fill="#FCE30A">FRONTEND &amp; MOBILE</text>
-  <text x="26" y="304" font-family="'Courier New',Courier,monospace" font-size="18" fill="#e6e6e6">React · Next.js · Flutter · Tailwind CSS · Material UI ·</text>
-  <text x="26" y="336" font-family="'Courier New',Courier,monospace" font-size="18" fill="#e6e6e6">Linear-Style Minimalist UI</text>
+  <text x="26" y="272" font-family="'Courier New',Courier,monospace" font-size="18" font-weight="bold" fill="#FCE30A">FRONTEND &amp; MOBILE</text>
+  <text x="26" y="304" font-family="'Courier New',Courier,monospace" font-size="17" fill="#e6e6e6">React · Next.js · Flutter · Tailwind CSS · Material UI ·</text>
+  <text x="26" y="336" font-family="'Courier New',Courier,monospace" font-size="17" fill="#e6e6e6">Linear-Style Minimalist UI</text>
 
-  <text x="26" y="368" font-family="'Courier New',Courier,monospace" font-size="19" font-weight="bold" fill="#FCE30A">BACKEND &amp; SYSTEMS</text>
-  <text x="26" y="400" font-family="'Courier New',Courier,monospace" font-size="18" fill="#e6e6e6">Node.js · Express.js · FastAPI · RESTful APIs · Cryptographic</text>
-  <text x="26" y="432" font-family="'Courier New',Courier,monospace" font-size="18" fill="#e6e6e6">Authentication · WebSockets · Peer-to-Peer Networks</text>
+  <text x="26" y="368" font-family="'Courier New',Courier,monospace" font-size="18" font-weight="bold" fill="#FCE30A">BACKEND &amp; SYSTEMS</text>
+  <text x="26" y="400" font-family="'Courier New',Courier,monospace" font-size="17" fill="#e6e6e6">Node.js · Express.js · FastAPI · RESTful APIs · Cryptographic</text>
+  <text x="26" y="432" font-family="'Courier New',Courier,monospace" font-size="17" fill="#e6e6e6">Authentication · WebSockets · Peer-to-Peer Networks</text>
 
-  <text x="26" y="464" font-family="'Courier New',Courier,monospace" font-size="19" font-weight="bold" fill="#FCE30A">DATABASES &amp; STORAGE</text>
-  <text x="26" y="496" font-family="'Courier New',Courier,monospace" font-size="18" fill="#e6e6e6">PostgreSQL · Supabase · Redis</text>
+  <text x="26" y="464" font-family="'Courier New',Courier,monospace" font-size="18" font-weight="bold" fill="#FCE30A">DATABASES &amp; STORAGE</text>
+  <text x="26" y="496" font-family="'Courier New',Courier,monospace" font-size="17" fill="#e6e6e6">PostgreSQL · Supabase · Redis</text>
 
-  <text x="26" y="528" font-family="'Courier New',Courier,monospace" font-size="19" font-weight="bold" fill="#FCE30A">EMBEDDED, MICROCONTROLLERS &amp; HARDWARE</text>
-  <text x="26" y="560" font-family="'Courier New',Courier,monospace" font-size="18" fill="#e6e6e6">Raspberry Pi · Pico · ESP32 · Arduino · AI Hats &amp; Hardware</text>
-  <text x="26" y="592" font-family="'Courier New',Courier,monospace" font-size="18" fill="#e6e6e6">Accelerators · Thermal Sensors · Multi-Spectral Imaging ·</text>
-  <text x="26" y="624" font-family="'Courier New',Courier,monospace" font-size="18" fill="#e6e6e6">Hardware-Software Interfacing</text>
+  <text x="26" y="528" font-family="'Courier New',Courier,monospace" font-size="18" font-weight="bold" fill="#FCE30A">EMBEDDED, MICROCONTROLLERS &amp; HARDWARE</text>
+  <text x="26" y="560" font-family="'Courier New',Courier,monospace" font-size="17" fill="#e6e6e6">Raspberry Pi · Pico · ESP32 · Arduino · AI Hats &amp; Hardware</text>
+  <text x="26" y="592" font-family="'Courier New',Courier,monospace" font-size="17" fill="#e6e6e6">Accelerators · Thermal Sensors · Multi-Spectral Imaging ·</text>
+  <text x="26" y="624" font-family="'Courier New',Courier,monospace" font-size="17" fill="#e6e6e6">Hardware-Software Interfacing</text>
 
-  <text x="26" y="656" font-family="'Courier New',Courier,monospace" font-size="19" font-weight="bold" fill="#FCE30A">DEVOPS, TOOLING &amp; BUILDCHAINS</text>
-  <text x="26" y="688" font-family="'Courier New',Courier,monospace" font-size="18" fill="#e6e6e6">Docker · Git · Linux/Bash · Android SDK &amp; NDK · Gradle ·</text>
-  <text x="26" y="720" font-family="'Courier New',Courier,monospace" font-size="18" fill="#e6e6e6">CI/CD · Vercel</text>
+  <text x="26" y="656" font-family="'Courier New',Courier,monospace" font-size="18" font-weight="bold" fill="#FCE30A">DEVOPS, TOOLING &amp; BUILDCHAINS</text>
+  <text x="26" y="688" font-family="'Courier New',Courier,monospace" font-size="17" fill="#e6e6e6">Docker · Git · Linux/Bash · Android SDK &amp; NDK · Gradle ·</text>
+  <text x="26" y="720" font-family="'Courier New',Courier,monospace" font-size="17" fill="#e6e6e6">CI/CD · Vercel</text>
 
-  <text x="26" y="752" font-family="'Courier New',Courier,monospace" font-size="19" font-weight="bold" fill="#FCE30A">DOMAINS</text>
-  <text x="26" y="784" font-family="'Courier New',Courier,monospace" font-size="18" fill="#e6e6e6">Distributed Systems · Custom Developer Tooling · Local LLM</text>
-  <text x="26" y="816" font-family="'Courier New',Courier,monospace" font-size="18" fill="#e6e6e6">Runtimes · Embedded &amp; Edge Computing · F1 Telemetry &amp;</text>
-  <text x="26" y="848" font-family="'Courier New',Courier,monospace" font-size="18" fill="#e6e6e6">Strategy · High-Fidelity Gaming Architecture</text>
+  <text x="26" y="752" font-family="'Courier New',Courier,monospace" font-size="18" font-weight="bold" fill="#FCE30A">DOMAINS</text>
+  <text x="26" y="784" font-family="'Courier New',Courier,monospace" font-size="17" fill="#e6e6e6">Distributed Systems · Custom Developer Tooling · Local LLM</text>
+  <text x="26" y="816" font-family="'Courier New',Courier,monospace" font-size="17" fill="#e6e6e6">Runtimes · Embedded &amp; Edge Computing · F1 Telemetry &amp;</text>
+  <text x="26" y="848" font-family="'Courier New',Courier,monospace" font-size="17" fill="#e6e6e6">Strategy · High-Fidelity Gaming Architecture</text>
 </svg>
