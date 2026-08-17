@@ -110,7 +110,7 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/h-comm.svg" alt="COMMUNICATIONS" />
+<img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/h-comm.svg?v=2" alt="SPIDEY SIGNAL" />
 
 <br />
 
