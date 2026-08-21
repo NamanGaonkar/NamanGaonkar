@@ -66,7 +66,7 @@
 
 <br />
 
-<img src="https://streak-stats.demolab.com/?user=NamanGaonkar&background=0a0a0a&border=FCE30A&stroke=FCE30A&ring=FCE30A&fire=FF9E00&currStreakNum=FCE30A&sideNums=FFFFFF&currStreakLabel=FF9E00&sideLabels=8a8a8a&dates=8a8a8a&hide_border=true" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=NamanGaonkar&background=0a0a0a&border=FCE30A&stroke=FCE30A&ring=FCE30A&fire=FF9E00&currStreakNum=FCE30A&sideNums=FFFFFF&currStreakLabel=FF9E00&sideLabels=8a8a8a&dates=8a8a8a&hide_border=true" alt="GitHub Streak Stats" />
 
 <br /><br />
 
