@@ -74,7 +74,7 @@
 
 <br /><br />
 
-<img src="https://gh-activity-graph.vercel.app/graph?username=NamanGaonkar&bg_color=0a0a0a&color=FCE30A&line=FFE900&point=FF9E00&area_color=FFE900&hide_border=true&radius=8" alt="Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NamanGaonkar&bg_color=0a0a0a&color=FCE30A&line=FFE900&point=FF9E00&area_color=FFE900&hide_border=true&radius=8" alt="Activity Graph" width="100%" />
 
 </div>
 
