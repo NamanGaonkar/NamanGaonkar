@@ -74,7 +74,11 @@
 
 <br /><br />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NamanGaonkar&theme=yellow&hide_border=true" alt="GitHub Profile Summary" />
+<img src="https://github-readme-stats.vercel.app/api?username=NamanGaonkar&show_icons=true&theme=chartreuse-dark&bg_color=0a0a0a&title_color=FCE30A&icon_color=FCE30A&text_color=FFFFFF&border_color=FCE30A&hide_border=true" alt="GitHub Stats" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanGaonkar&layout=compact&bg_color=0a0a0a&title_color=FCE30A&text_color=FFFFFF&border_color=FCE30A&hide_border=true" alt="Top Languages" />
 
 </div>
 
