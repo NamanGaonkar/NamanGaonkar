@@ -76,6 +76,10 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NamanGaonkar&bg_color=0a0a0a&color=FCE30A&line=FFE900&point=FF9E00&area_color=FFE900&hide_border=true&radius=8" alt="Activity Graph" />
 
+<br /><br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NamanGaonkar&theme=radical&hide_border=true" alt="GitHub Profile Summary" />
+
 </div>
 
 ---
