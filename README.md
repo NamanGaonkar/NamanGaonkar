@@ -74,6 +74,7 @@
 
 <br /><br />
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NamanGaonkar&theme=yellow&hide_border=true" alt="GitHub Profile Summary" />
 
 </div>
 
