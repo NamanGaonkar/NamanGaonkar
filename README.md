@@ -74,7 +74,7 @@
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/profile-3d-contrib/profile-dark.svg" alt="GitHub 3D Contribution Graph" />
+<img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/profile-3d-contrib/profile-night-view.svg" alt="GitHub 3D Contribution Graph" />
 
 </div>
 
