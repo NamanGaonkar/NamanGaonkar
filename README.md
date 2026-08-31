@@ -74,7 +74,7 @@
 
 <br /><br />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NamanGaonkar&theme=radical&hide_border=true" alt="GitHub Profile Summary" />
+<img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/profile-3d-contrib/profile-dark.svg" alt="GitHub 3D Contribution Graph" />
 
 </div>
 
