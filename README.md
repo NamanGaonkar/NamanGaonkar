@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="border: 3px solid #FCE30A; border-radius: 15px; padding: 20px; margin: 10px;">
 
 <!-- ══════════════ BANNER + TYPING + GIF ══════════════ -->
 <table>
@@ -14,11 +14,7 @@
   </tr>
 </table>
 
-</div>
-
 ---
-
-<div align="center">
 
 <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/h-core.svg" alt="CORE ARCHITECTURE" />
 
@@ -26,9 +22,7 @@
 
 <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/core-architecture.svg?v=2" alt="Core Architecture" />
 
-</div>
-
-<div align="center">
+<br />
 
 <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/h-tech-specs.svg" alt="TECH SPECS" />
 
@@ -36,11 +30,7 @@
 
 <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/tech-specs.svg?v=2" alt="Tech Specs" />
 
-</div>
-
 ---
-
-<div align="center">
 
 <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/h-tech-arsenal.svg" alt="TECH ARSENAL" />
 
@@ -56,11 +46,7 @@
 
 <img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,dart,linux,bash,git,github,vscode,postman,androidstudio,gradle,arduino,raspberrypi&perline=16" />
 
-</div>
-
 ---
-
-<div align="center">
 
 <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/h-telemetry.svg" alt="PERFORMANCE TELEMETRY" />
 
@@ -76,11 +62,7 @@
 
 <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/profile-3d-contrib/profile-night-view.svg" alt="GitHub 3D Contribution Graph" />
 
-</div>
-
 ---
-
-<div align="center">
 
 <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/h-serpent.svg" alt="THE SERPENT" />
 
@@ -88,11 +70,7 @@
 
 <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/output/ocean.gif" alt="GitHub Snake" />
 
-</div>
-
 ---
-
-<div align="center">
 
 <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/h-trophy.svg" alt="TROPHY CASE" />
 
@@ -100,19 +78,13 @@
 
 <img src="https://trophy.ryglcloud.net/?username=NamanGaonkar&theme=onestar&margin-w=15&margin-h=15&column=8" alt="GitHub Trophies" />
 
-</div>
-
 ---
-
-<div align="center">
 
 <img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/spidey.gif" alt="Spidey" width="480" style="border: 3px solid #FCE30A; border-radius: 10px;" />
 
 <br />
 
-<img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/h-comm.svg?v=2" alt="SPIDEY SIGNAL" />
-
-<br />
+<img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/h-comm.svg" alt="SPIDEY SIGNAL" />
 
 <br />
 
@@ -127,4 +99,3 @@
 </a>
 
 </div>
-
