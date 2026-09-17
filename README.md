@@ -80,7 +80,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/spidey.gif" alt="Spidey" width="480" style="border: 3px solid #FCE30A; border-radius: 10px;" />
+<img src="https://raw.githubusercontent.com/NamanGaonkar/NamanGaonkar/main/spideyv2.gif" alt="Spidey" width="480" style="border: 3px solid #FCE30A; border-radius: 10px;" />
 
 <br />
 
