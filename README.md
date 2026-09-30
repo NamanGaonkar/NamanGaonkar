@@ -42,7 +42,7 @@
 
 <br />
 
-**Languages & Tools**
+**Languages & Tools Used**
 
 <img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,dart,linux,bash,git,github,vscode,postman,androidstudio,gradle,arduino,raspberrypi&perline=16" />
 
